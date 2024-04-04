@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+  <style>
+    body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center
+  font-family: verdana;
+}
+
+h3 {
+  color: darkblue;
+  text-align: center
+  font-family: verdana;
+}
+
+p1 {
+  font-family: verdana;
+  font-size: 20px;
+}
+  </style>
+</head>
+<body>
+
+<style>
+        h1 {
+        border-style: double;
+        border-width: thick;
+        }
+</style>
+
+<style>
+        h3 {
+        border-style: double;
+        border-width: thick;
+        }
+</style>
+
+<style>
+        p {
+        border-style: double;
+        border-width: thin;
+        }
+</style>
+
+<h1>The History and Importance of Molasses</h1>
+<p>Molasses was</p>
+
+</body>
+</html>
