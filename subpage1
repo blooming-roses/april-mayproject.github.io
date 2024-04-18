@@ -61,5 +61,10 @@ p {
 
 <img src="https://csengineermag.com/wp-content/uploads/2014/09/02-01-Figure1.jpg" alt="Another angle of the Molasses Tank" width="700" height="500">
 
+<div class="topnav">
+  <a class="active" href="#index.html">The Great Molasses Flood</a>
+  <a href="#subpage1">Importance of Molasses</a>
+  <a href="#subpage2">Aftermath of Flood</a>
+</div>
 </body>
 </html>
