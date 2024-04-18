@@ -14,6 +14,7 @@ h1 {
   color: darkblue;
   text-align: center
   font-family: verdana;
+  font-size: 32px
 }
 
 h3 {
@@ -22,9 +23,9 @@ h3 {
   font-family: verdana;
 }
 
-p1 {
+p {
   font-family: verdana;
-  font-size: 20px;
+  font-size: 17px;
 }
   </style>
 </head>
@@ -52,7 +53,13 @@ p1 {
 </style>
 
 <h1>The History and Importance of Molasses</h1>
-<p>Molasses was</p>
+<p>Molasses is a thick, dark syrup-like liquid that is made of sugar cane or sugar beets. Molases was used in trade, and it could be used as a sweetener for people who couldn't afford buying sugar. Molasses can also be fermented to create ethanol, an important ingredient in alcoholic beverages and munitions (military weapons, ammunition, equipment, and stores). That being said, molasses was a very important asset back during 1919, so having a tank full of gallons of molasses makes sense.</p>
+
+<img src="https://www.boston.gov/sites/default/files/img/2019/m/molasses1_0.jpg" alt="The Molasses Tank" width="700" height="500">
+
+<p>The tank was 50 feet tall and 90 feet in diameter, containing as much as 2.3 million gallons of molasses inside. The tank was shoddily made and would leak out molasses, that some people would steal for its use. The people working on the tank tried to patch it up, but the tank being so unstable would only cause more problems. Combining the warm weather, the new imput of warm molasses with the cold molasses, and the unstable tank, it was only a matter of time until it exploded.</p>
+
+<img src="https://csengineermag.com/wp-content/uploads/2014/09/02-01-Figure1.jpg" alt="Another angle of the Molasses Tank" width="700" height="500">
 
 </body>
 </html>
